@@ -19,4 +19,3 @@
 [Flask-Based-Note-Taking-Web-Application](https://github.com/Aparnakannan11/Flask-Based-Note-Taking-Web-Application) - cloned into [Mycka Valoroso's Repository](https://github.com/mycka4/Flask-Based-Note-Taking-Web-Application) - [Block 2]  
 [URL-Shortener](https://github.com/ezhil56x/URL-Shortener.git) - cloned into [Frilyn Alicos' Repository](https://github.com/fraaays/URL-Shortener.git) - [block 2] 
 
-[task-master-flask](https://github.com/Halip26/task-master-flask) - cloned into [Lewin Rey Kurt Laguisma's Repository](https://github.com/lewww123/task-master-flask) - [block 1]  
